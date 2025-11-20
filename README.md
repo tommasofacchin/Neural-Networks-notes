@@ -1,6 +1,6 @@
 # Machine Learning Notes
 
-This repository contains my personal notes on Machine Learning, organized into different topics and stored in markdown notebook files. These notes are a work in progress and will be updated as I continue studying and learning new concepts.
+This repository contains my personal notes on Machine Learning, collected from my studies at Ca' Foscari University (Data Science program) and from independent learning. The notes are organized into different topics and stored in Markdown notebook files. They are a work in progress and will be updated as I continue studying and exploring new concepts.
 
 > **Note:** These notes are intended for personal learning and reference. They may contain errors or incomplete sections.
 
